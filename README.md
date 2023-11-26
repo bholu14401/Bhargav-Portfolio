@@ -1,8 +1,8 @@
 # Bhargav-Portfolio
 
-### Education
-MS, Applied Data Analytics | Boston University(September 2022 - Present)
-Ms, Information Technology | Navrachna University(September 2022 - Present)
+## Education
+- MS, Applied Data Analytics | Boston University(_September 2022 - Present_)
+- Ms, Information Technology | Navrachna University(September 2022 - Present)
 
 Boston University                                             September 2022 - Present
 MS in Applied Data Analytics
